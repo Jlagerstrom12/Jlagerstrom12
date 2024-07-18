@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Jlagerstrom12/Azure-SOC)
+ 
+- <b>Google Cybersecurity Projects<b>
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
