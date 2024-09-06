@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Jlagerstrom12/Azure-SOC)
+  - [Setting up Vulnerable Virtual Machines in Azure](https://github.com/Jlagerstrom12/Creating-Honeypot-In-Azure/blob/main/README.md)
  
 - <b>Google Cybersecurity Projects<b>
   - 
