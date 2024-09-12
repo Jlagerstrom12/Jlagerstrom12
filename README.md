@@ -5,9 +5,10 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Jlagerstrom12/Azure-SOC)
   - [Setting up Vulnerable Virtual Machines in Azure](https://github.com/Jlagerstrom12/Creating-Honeypot-In-Azure/blob/main/README.md)
+
+<v2> Information Technology Projects:</h2>
+  - Active Directory Oracle Virtualbox
  
-- <b>Google Cybersecurity Projects<b>
-  - 
 
 <h2> 🤳 Connect with me:</h2>
 
