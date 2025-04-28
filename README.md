@@ -6,7 +6,10 @@
   - [Creating a live SOC/Honeynet in Azure](https://github.com/Jlagerstrom12/Azure-SOC)
   - [Setting up Vulnerable Virtual Machines in Azure](https://github.com/Jlagerstrom12/Creating-Honeypot-In-Azure/blob/main/README.md)
  
+<h2> Information Technology Projects:</h2>
 
+- <b>Setting up VMs and Powershell</b>
+  - [Installing and configuring VMs with Virtualbox and importing users with Powershell](
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
