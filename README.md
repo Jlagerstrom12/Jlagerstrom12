@@ -9,7 +9,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Setting up VMs and Powershell</b>
-  - [Installing and configuring VMs with Virtualbox and importing users with Powershell](https://github.com/Jlagerstrom12/Active-Directory-Using-VirtualBox)
+  - [Installing and Configuring VMs with Virtualbox and Importing Users with Powershell](https://github.com/Jlagerstrom12/Active-Directory-Using-VirtualBox)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
